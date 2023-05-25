@@ -4,3 +4,5 @@ RTL (Register Transfer Level) design/digital logic design in system verilog(.sv)
 Practise design and verification of various logic circuits with the goal of RISC-V (RV32I, RV32MAC) multi-stage pipeline processor, FIFOs(synchrounous and asynchrounous), different protocols(I2C, SPI, AMBA, PCIe).
 
 DAY001 - MUX  :   2to1MUX ,     4to1MUX using structural-modelling
+
+DAY002  - ADDERS  :   Half_Adder,   Full_Adder,   Ripple-carry_Adder,   Carry-look-ahead_Adder
