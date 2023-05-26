@@ -6,3 +6,5 @@ Practise design and verification of various logic circuits with the goal of RISC
 DAY001 - MUX  :   2to1MUX ,     4to1MUX using structural-modelling
 
 DAY002  - ADDERS  :   Half_Adder,   Full_Adder,   Ripple-carry_Adder,   Carry-look-ahead_Adder
+
+DAY003  - COUNTERS  :   Synchronous/Asynchronous Counters,    Up/Down Counters,   Ring Counter,   Johnson Counter
